@@ -15,3 +15,8 @@
 # FIRST DAY ON GIT :
 
 ![HERENA_FIRSTDAYONGITHUB](https://user-images.githubusercontent.com/101052348/161386013-69d83b2d-9808-4f33-b2ca-8f594f08619e.png)
+
+# HACKEREARTH 1000 POINTS
+
+![HERENA_HACKEREARTH](https://user-images.githubusercontent.com/101052348/161386706-63cd7d01-c40e-4ee9-8a1f-c610b702a55a.png)
+
