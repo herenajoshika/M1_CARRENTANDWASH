@@ -1,4 +1,4 @@
-# M1_CARRENTANDWASH
+# M1_CAR-RENTANDWASH
 Module 1 Project
 
 # BADGES
@@ -13,9 +13,16 @@ Module 1 Project
 
 ## WORKFLOWS
 
-|Build|Unit Test|cppcheck|Code Covergae|GIT Inspector | Build on Windows | Valgrind| 
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[![C/C++ CI](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/c_build.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/c_build.yml)|[![Unit Testing - Unity](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/unity.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/unity.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/cppcheck.yml)|[![CI-Coverage](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gcov.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gcov.yml)|[![Contribution Check - Git Inspector](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gitinspector.yml)|[![Build CI - Windows](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/BUILD_windows.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/BUILD_windows.yml)|[![Valgrind](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/Dynamic_codequality.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/Dynamic_codequality.yml)|
+
+|WORKFLOW| BADGE |
+| --------------- | --------------- |
+| Build |[![C/C++ CI](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/c_build.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/c_build.yml)|
+| Unit Test |[![Unit Testing - Unity](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/unity.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/unity.yml)|
+| Cpp Check |[![Code Quality - Static Code - Cppcheck](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/cppcheck.yml)|
+|Code Coverage|[![CI-Coverage](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gcov.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gcov.yml)|
+| GIT Inspector |[![Contribution Check - Git Inspector](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/gitinspector.yml)|
+|  Build on Windows |[![Build CI - Windows](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/BUILD_windows.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/BUILD_windows.yml) |
+| Valgrind |[![Valgrind](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/Dynamic_codequality.yml/badge.svg)](https://github.com/herenajoshika/M1_CARRENTANDWASH/actions/workflows/Dynamic_codequality.yml)|
 
 # VALGRIND
 
