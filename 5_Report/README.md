@@ -80,6 +80,10 @@ When a user needs to book a rental car or car wash, they can enter their prefere
 | LR6 |A clean graphical user interface in an app for easy booking  | HR06| Future |
 | LR6 |Depositing system if incase the balance is insufficient  | HR07| Future |
 
+## BEST METHOD FOLLOWED
+
+C programming is one of the less complex language through which this application is done.Car renting is done from anywhere through this application and also Car wash can be booked from anywhere and also the working of the application is easy to understand and also to work on which makes it more versatile for any person to use.
+
 
 ## FLOWCHART
 
